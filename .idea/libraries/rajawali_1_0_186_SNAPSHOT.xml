@@ -2,7 +2,7 @@
   <library name="rajawali-1.0.186-SNAPSHOT">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.186-SNAPSHOT/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.186-SNAPSHOT/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.186-SNAPSHOT/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
